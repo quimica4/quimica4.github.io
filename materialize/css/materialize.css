@@ -9094,5 +9094,6 @@ input[type=range]::-ms-thumb {
 }
 
 img{
-    width: 18%;
+    width: 14%;
+    margin-top: 0.7%;
 }
